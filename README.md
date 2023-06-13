@@ -14,5 +14,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeet14all&show_icons=true&locale=en&layout=compact" alt="vishwajeet14all" /></p>
+
 
