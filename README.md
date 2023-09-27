@@ -9,7 +9,7 @@
 
 <h3>->🌱 I’m currently learning </h3> **HTML,CSS,Java Script,AJEX,jQuery,React,Node.js,MongoDB**
 
-<h3>->📫 How to reach me </h3>**rjvishwajeet007@gmail.com**
+
 
 
 
